@@ -58,7 +58,8 @@ cd Snake-Game-Java
 
 ![Screenshot 2025-07-01 105108](https://github.com/user-attachments/assets/e248474b-d6ee-4a5d-a474-566706916ddc)
 ![Screenshot 2025-07-01 110402](![Screenshot 2025-07-01 110413](https://github.com/user-attachments/assets/306db828-e292-4a00-a370-daa6c6ae145f)
-![Screenshot 2025-07-01 110413](https://github.com/user-attachments/assets/1b291f11-780a-4183-8714-da91a7b2f40a)
+![Screenshot 2025-07-01 110402](https://github.com/user-attachments/assets/b1675831-defc-4a98-9566-594a0614b027)
+
 
 
 
